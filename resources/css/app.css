@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color:#18746d ;
+}
+
+.custom-background {
+    background-color: #5ac275;
+}
+
+.custom-background-2 {
+    background-color: #53b46d;
+}
+
+.custom-background-3{
+    background-color: #18746d ;
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .image-container img {
+        max-width: 50%; 
+        height: auto; 
+    }
+}
