@@ -2,9 +2,10 @@ My first Laravel + mySQL + Blaze + Tailwind project!
 
 It is a Blog with authentication where I am the admin and I can write my own blog posts. The users can comment my posts. In the future, I plan to implement:
 
-    a Like system
-    a comment's reply system
-    recommended posts based on 
+    -A Like system
+    -A comment's reply system
+    -Recommended posts based on category
+    -Other stuff
 
 I did not deploy it because I could not find any free hosting for my Laravel Project (if you know one, let me know!)
 
